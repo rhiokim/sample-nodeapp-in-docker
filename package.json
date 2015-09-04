@@ -1,0 +1,26 @@
+{
+  "name": "sample-nodeapp-in-docker",
+  "version": "1.0.0",
+  "description": "Sample Node.js App on Docker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhiokim/sample-nodeapp-in-docker.git"
+  },
+  "keywords": [
+    "docker",
+    "node.js"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhiokim/sample-nodeapp-in-docker/issues"
+  },
+  "homepage": "https://github.com/rhiokim/sample-nodeapp-in-docker#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
